@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityasinghjadon03
-- 👀 I’m interested in Open Source Development
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on open source contribution
+- 👀 I’m interested in Open Source Development and cybersecurity.
+- 🌱 I’m currently working on penetration testing and scripting.
+- 💞️ I’m looking forward on helping in projects and getting help.
 - 📫 How to reach me adityasinghjadon03@gmail.com
 
 <!---
