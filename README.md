@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9CCED&width=435&lines=An+Aspiring+iOS+Developer.;A+Cybersecurity+Enthusiast.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=B9CCED&width=435&lines=An+Aspiring+iOS+Developer.;A+Cybersecurity+Enthusiast.)
 </h1>
 
 <p align="center">
