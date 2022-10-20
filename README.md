@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h2 align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?       font=Montserrat&pause=1000&color=B9CCED&width=435&lines=A+Passionate+iOS+App+Developer.;A+Cybersecurity+Enthusiast.)
 
-<h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Aditya Singh">
  </p>
