@@ -1,7 +1,7 @@
 <p align="center">
 <img-src="https://github.com/adityasinghjadon03/adityasinghjadon03/images/cropped.png" alt="Aditya Singh" height="200">
 <p>
-<h1 align="center">Hi, I'm Aditya Singh
+<h1>Hi, I'm Aditya Singh
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Aditya Singh" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%B9CCEDFF&vCenter=true&lines=A+Passionate+iOS+App+Developer;CyberSec+Team+Member+at+HackTheBox;)](https://git.io/typing-svg)
